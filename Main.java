@@ -9,3 +9,5 @@ System.out.println(B.dicearray[1]);
 System.out.println(C.dicearray[2]);
         }
 }
+
+// WHere are the threads, Alex?
